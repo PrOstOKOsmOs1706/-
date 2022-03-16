@@ -1,0 +1,38 @@
+.container {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+ background-color:#FFFACD;
+}
+.container1 {
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+ background-color:#FFFF00;
+}
+.footer {
+    position: fixed; /* Фиксированное положение */
+    left: 100; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background: #E0FFFF; /* Цвет фона */
+    color: #000000; /* Цвет текста */
+    width: 150%; /* Ширина слоя */
+   }
+.logo {
+    width: 200px;
+    float: left;
+    height: 80px;
+	background-color:#FF0000;
+}
+.use {
+    color: #aa064b;
+    
+}
+.top-menu {
+    width: 685px;
+    height: 80px;
+    float: left;
+}
+.layer1 {
+    font: 12pt sans-serif;
+   } 
